@@ -145,8 +145,8 @@ Learners can see the indicator and an explanation of how it works.
 ### Install
 
 ```bash
-git clone <your-repo-url>
-cd learning_platform
+git clone https://github.com/vaibhav-pyy/ai-python-learning-platform.git
+cd ai-python-learning-platform
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
