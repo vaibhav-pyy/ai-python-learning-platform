@@ -235,6 +235,12 @@ During development, the keystroke heuristic (τ = 0.35) was tried in a small, in
 20 submissions. That evaluation was not a controlled study, and it does not establish how well the
 heuristic performs for other learners, tasks or settings.
 
+## Contributors
+
+- Vaibhav ([@vaibhav-pyy](https://github.com/vaibhav-pyy))
+- Rishab Kulkarni
+- Rida Anjum
+
 ## License
 
 No license has been chosen yet. Until one is added, all rights are reserved by the author.
