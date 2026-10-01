@@ -1,0 +1,3 @@
+PyQt5>=5.15
+huggingface_hub>=1.0
+pynput>=1.7

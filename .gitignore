@@ -1,0 +1,27 @@
+# Secrets / local configuration
+.env
+
+# Runtime data — the app creates a fresh database on first run.
+# The local database contains user accounts and submissions; never commit it.
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Tooling / OS
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
